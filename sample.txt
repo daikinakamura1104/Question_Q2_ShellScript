@@ -1,0 +1,5 @@
+total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11 09:40 .. -rwxr-xr-x@ 1 ssl staff 149 3 11 11:44 Time.sh -rw-r--r--@ 1 ssl staff 187 3 11 11:36 sample.txt
+total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11 09:40 .. -rwxr-xr-x@ 1 ssl staff 150 3 11 11:44 Time.sh -rw-r--r--@ 1 ssl staff 187 3 11 11:44 sample.txt
+total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11 09:40 .. -rwxr-xr-x@ 1 ssl staff 150 3 11 11:44 Time.sh -rw-r--r--@ 1 ssl staff 374 3 11 11:44 sample.txt
+total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11 09:40 .. -rwxr-xr-x@ 1 ssl staff 150 3 11 11:48 Time.sh -rw-r--r--@ 1 ssl staff 561 3 11 11:45 sample.txt
+total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11 09:40 .. -rwxr-xr-x@ 1 ssl staff 150 3 11 11:48 Time.sh -rw-r--r--@ 1 ssl staff 748 3 11 11:48 sample.txt
