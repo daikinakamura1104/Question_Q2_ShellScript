@@ -3,3 +3,6 @@ total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11
 total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11 09:40 .. -rwxr-xr-x@ 1 ssl staff 150 3 11 11:44 Time.sh -rw-r--r--@ 1 ssl staff 374 3 11 11:44 sample.txt
 total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11 09:40 .. -rwxr-xr-x@ 1 ssl staff 150 3 11 11:48 Time.sh -rw-r--r--@ 1 ssl staff 561 3 11 11:45 sample.txt
 total 16 drwxr-xr-x 4 ssl staff 128 3 11 11:29 . drwxr-xr-x 8 ssl staff 256 3 11 09:40 .. -rwxr-xr-x@ 1 ssl staff 150 3 11 11:48 Time.sh -rw-r--r--@ 1 ssl staff 748 3 11 11:48 sample.txt
+total 16 drwxr-xr-x 5 ssl staff 160 3 11 11:51 . drwxr-xr-x 8 ssl staff 256 3 12 11:27 .. drwxr-xr-x 13 ssl staff 416 3 11 16:40 .git -rwxr-xr-x@ 1 ssl staff 150 3 12 15:52 Time.sh -rw-r--r--@ 1 ssl staff 935 3 11 11:48 sample.txt
+total 16 drwxr-xr-x 5 ssl staff 160 3 11 11:51 . drwxr-xr-x 8 ssl staff 256 3 12 11:27 .. drwxr-xr-x 13 ssl staff 416 3 11 16:40 .git -rwxr-xr-x@ 1 ssl staff 150 3 12 15:52 Time.sh -rw-r--r--@ 1 ssl staff 1166 3 12 15:52 sample.txt
+total 16 drwxr-xr-x 5 ssl staff 160 3 11 11:51 . drwxr-xr-x 8 ssl staff 256 3 12 11:27 .. drwxr-xr-x 13 ssl staff 416 3 11 16:40 .git -rwxr-xr-x@ 1 ssl staff 150 3 12 15:52 Time.sh -rw-r--r--@ 1 ssl staff 1398 3 12 15:57 sample.txt
